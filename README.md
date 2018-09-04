@@ -1,2 +1,2 @@
 # Adventure
-A game full of battles, mosters, wepons and fun!
+A game full of battles, mosters, weapons and fun!
